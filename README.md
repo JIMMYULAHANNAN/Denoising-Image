@@ -84,5 +84,7 @@
 - A randomly selected noisy image and its corresponding reconstructed (denoised) image are visualized.
 
 ---
+Code:https://github.com/JIMMYULAHANNAN/Denoising-Image/blob/main/CNN%20Model%20Image%20denoising%20.ipynb
+
 
 This workflow provides a foundation for image denoising using convolutional neural networks (CNNs) and autoencoders. The code emphasizes deep learning techniques for feature extraction, image reconstruction, and noise reduction.
