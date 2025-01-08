@@ -1,8 +1,5 @@
 # Denoising-Image
 
-
-Below is an explanation of the code provided, structured according to your request, with **Objectives**, **Skills Used**, **Libraries Imported**, and **Explanation of the Code**:
-
 ---
 
 ### **Objectives**
